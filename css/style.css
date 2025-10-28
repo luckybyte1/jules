@@ -85,6 +85,13 @@ nav a:hover {
     text-decoration: underline;
 }
 
+.iphone-14 {
+    background-image: url('../img/iphone-14-hero.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 70vh;
+}
+
 .iphone-14-pro {
     background-color: #000;
     color: #fff;
@@ -123,6 +130,12 @@ nav a:hover {
 
 .promo-item .links a:hover {
     text-decoration: underline;
+}
+
+.promo-item.ipad {
+    background-image: url('../img/ipad-hero.jpg');
+    background-size: cover;
+    background-position: center;
 }
 
 footer {
